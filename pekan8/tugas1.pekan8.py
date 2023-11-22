@@ -1,4 +1,3 @@
-
 def profil(nama,kelas,alamat,hobby):
     print("Nama Saya:",nama)
     print("Rombel Saya:",kelas)
